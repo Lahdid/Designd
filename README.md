@@ -1,27 +1,11 @@
 # Showcase
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+Angular showcase web application 
 
-## Development server
+## Preview 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Capture d’écran (48)](https://user-images.githubusercontent.com/81595746/214855068-fd44313b-5da3-440e-9c8f-20a2fe85207c.png)
 
-## Code scaffolding
+![Capture d’écran (54)](https://user-images.githubusercontent.com/81595746/214855077-44aadb53-2f72-4a56-9f89-7417955abb19.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Capture d’écran (52)](https://user-images.githubusercontent.com/81595746/214855084-7e705c37-1868-44ad-aada-a2102a4f92c8.png)
